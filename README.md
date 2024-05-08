@@ -148,3 +148,11 @@ Reference
 A. Leigh, J. Pineau, N. Olmedo and H. Zhang, Person Tracking and Following with 2D Laser Scanners, International Conference on Robotics and Automation (ICRA), Seattle, Washington, USA, 2015. [pdf](https://www.cs.mcgill.ca/~aleigh1/ICRA_2015.pdf)
 
 Citations appreciated!
+
+
+
+
+
+
+TODO: might be better to use /odom as the target frame, if the robot is moving.
+TODO: incorporate additional observations into kalman filter (i.e. visual perceptions).
